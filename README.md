@@ -1,5 +1,7 @@
 # HTML
 
+Antes [Reglas HTML](./Reglas.md)
+
 - [HTML](#html)
   - [Introducción](#introducción)
     - [¿Que es la W3C?](#que-es-la-w3c)
@@ -59,7 +61,7 @@ Para aprender lenguajes como HTML y CSS principalmente recomiendo **Brackets.io*
 ## Estructura Básica de HTML
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
